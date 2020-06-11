@@ -513,6 +513,10 @@ input[type=submit]:active{
     text-align: center;
 }
 
+.rate-height{
+    height: 250px;
+}
+
 
 /*---------------------------*/
 /*----Form----------*/
