@@ -501,6 +501,7 @@ input[type=submit]:active{
 
 .rate-box {
     border-radius: 5px;
+    margin-top: 20px;
     margin-left: 15px;
     box-shadow: 5px 10px #ddd5d5;
 }
@@ -515,6 +516,7 @@ input[type=submit]:active{
 
 .rate-height{
     height: 250px;
+    width: 200px;
 }
 
 
