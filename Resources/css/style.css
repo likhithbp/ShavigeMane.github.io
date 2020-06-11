@@ -648,8 +648,8 @@ footer p{
 /* section 6 4 columns */
 .gridCSS3{
     display: grid;
-    grid-gap: 20px;
-    grid-template-columns: repeat(4,1fr);
+    grid-gap: 40px;
+    grid-template-columns: repeat(2, 220px);
     margin: 0 20px;
 }
 
